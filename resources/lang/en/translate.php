@@ -1,0 +1,46 @@
+<?php
+
+    return array(
+        'home' => 'Home',
+        'profile' => 'Profile',
+        'create' => 'Create Post',
+        'posts' => 'Posts',
+        'my_posts' => 'My Posts',
+        'posts_count' => 'NUMBER OF POSTS',
+        'statistics' => 'Statistics',
+        'post_rate' => 'Your rate of posts on the site',
+        'comment_rate' => 'Your rate of comments on the site',
+        'profile_text' => 's Profile',
+        'photo' => 'Photo',
+        'name' =>'Name',
+        'eMail' =>'E-Mail',
+        'password' => 'Password',
+        'edit' => 'Edit',
+        'delete_profile' => 'Delete My Account',
+        'save' => 'Save',
+        'delete_warning' => 'Ready to Leave?',
+        'delete_profile_warning_text' => 'Are you sure you want to delete your account?',
+        'title' =>'Title',
+        'post' => 'Post',
+        'share' => 'Share',
+        'edit_post' => 'Edit Post',
+        'delete_post' => 'Delete Post',
+        'comments' =>' Comments',
+        'comment_write' => 'Write a comment',
+        'delete_comment' => 'Delete Comment',
+        'delete_comment_warning_text' => 'Are you sure you want to delete your comment?',
+        'delete_post_warning_text' => 'Are you sure you want to delete your post?',
+        'copyright' => 'Copyright',
+        'your_website' => 'Your Website',
+        'blogS' => 's Blog',
+        'no_post' => 'No Post!',
+        'delete' => 'Delete',
+        'cancel' => 'Cancel',
+        'logout' => 'Logout',
+        'login' => 'Login',
+        'register' => 'Register',
+
+
+    );
+
+?>
