@@ -1,6 +1,6 @@
 @extends('layout')
 @section('content')
-@if ($postCount==0)
+@if ($user->posts->count() <= 0)
 <div class="container-fluid">
     <div class="row justify-content-md-center">
         <div class="col-lg-6">
